@@ -1,0 +1,16 @@
+{
+  "lifestyle": [
+    {
+      "photo": "https://i.pinimg.com/236x/7a/d5/f8/7ad5f88d1873140b043d30b0b1a4bc15.jpg",
+      "title": "Alo",
+      "des": "My best Food Alo",
+      "id": 1
+    },
+    {
+      "photo": "https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-01.png",
+      "title": "Rice",
+      "des": "My best meal rice Azam",
+      "id": 2
+    }
+  ]
+}
